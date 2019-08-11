@@ -101,8 +101,8 @@ public class Vectores {
             nombres.add(nombre);
             generos.add(genero);
             fechas.add(fecha);
-            isCasados.add(b);
-            isEstudia.add(b);
+            isCasados.add(isCasado);
+            isEstudia.add(isEstudiante);
             gastos.add(gastosd);
 
             return "Paso!";
